@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="styles.css">
+        <title>Twitter Sign Up Page</title>
+      </head>
+      <body>
+        <section>
+        <div class="Sign Up Page">
+        <header class="happening">Happening Now</header>
+        <h3>Join Twitter Today</h3>
+        <form>
+          <div class="Sign Up">
+          <input type="button" value="Sign Up With Google"><br/>
+          <input type="button" value="Sign Up With Apple">
+        </div>
+          Or
+          <div class="Phone">
+          <input type="button" value="Sign Up With A Phone Number Or Email">
+          <p>By Signing Up, you agree to the<a href="#">Terms Of Service</a> and <a href="#">Privacy Policy</a>, including <a href="#">Cookie Use</a></p>
+        </div>
+        </form>
+        <h3>
+          Already have an account?
+        </h3>
+        <div class="Sign In">
+          <input type="button" value="Sign In">
+        </div>
+        </div>
+      </section>
+
+        <section>
+        <div class="BirdApp">
+          <img src="https://cdn.cms-twdigitalassets.com/content/dam/help-twitter/logos/htc-summary-card.jpg.twimg.768.jpg" alt="Bird">
+        </div>
+      </section>
+<section>
+  <footer>
+    <ul class="list">
+<li><a href="#">About</a></li>   
+<li><a href="#">Help Center</a></li>
+<li><a href="#">Terms Of Service</a></li>
+<li><a href="#">Privacy Policy</li>
+  <li><a href="#">Cookie Policy</a></li>
+  <li><a href="#">Brand Resources</a></li>
+  <li><a href="#">Advertising</a></li>
+  <li><a href="#">Marketing</a></li> 
+    </ul>
+  </footer>
+</section>
+</body>
+</html>
+ 
